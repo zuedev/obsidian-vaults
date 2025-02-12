@@ -1,4 +1,4 @@
-# Analyzing Win32.Netscan, A Malicious "Network Scanner" with Destructive Payloads
+# Analyzing Win32.Netscan, A Malicious Network Scanner with Destructive Payloads
 
 ## Overview
 At first glance, **Win32.Netscan** presents itself as a harmless freeware utility meant to "scan your system" when you connect to a network. However, a closer examination of its source code reveals a multi-faceted piece of malware designed to propagate itself, compromise system stability, and even potentially render a system unusable.
