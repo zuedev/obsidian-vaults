@@ -1,3 +1,5 @@
+# Modern Warbird, A Deep Dive into Dynamic Code Obfuscation
+
 ## Introduction
 
 At first glance, Warbird in modern Windows might seem like a straightforward system. However, behind its seemingly simple exterior lies a clever array of techniques designed to keep prying eyes at bay. In this exploration, we'll dive into the real-world obfuscation methods observed in actual binaries—revealing the art behind encrypting and decrypting code on the fly.
